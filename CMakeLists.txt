@@ -12,7 +12,7 @@ endif()
 project ("MINST_C")
 
 # ソースをこのプロジェクトの実行可能ファイルに追加します。
-add_executable (MINST_C "MINST_C.cpp" "MINST_C.h")
+add_executable (MINST_C "MINST_C.c" "MINST_C.h")
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET MINST_C PROPERTY CXX_STANDARD 20)
