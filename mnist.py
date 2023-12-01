@@ -21,6 +21,9 @@ BATCH = 100
 # GPUが利用可能かどうかをチェックし、利用可能ならGPUを使用
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
+# 使用モデル
+model = Net()
+
 # composeによって複数の変換操作を統合
 # データをロード
 import torch
@@ -31,6 +34,7 @@ import numpy as np
 transform = transforms.Compose(
     [transforms.ToTensor(),
      transforms.Normalize((0.5, ), (0.5, ))])
+
 trainset = torchvision.datasets.MNIST(root='./data', 
                                         train=True,
                                         download=True,
@@ -56,13 +60,11 @@ classes = tuple(np.linspace(0, 9, 10, dtype=np.uint8))
 
 
 def train_and_save_model():
-    # 使用モデル
-    net = Net()
-    net.to(device)  # ネットワークをGPUに移動
+    model.to(device)  # ネットワークをGPUに移動
 
     # define loss function and optimier
     criterion = nn.CrossEntropyLoss() # 損失関数
-    optimizer = optim.SGD(net.parameters(),
+    optimizer = optim.SGD(model.parameters(),
                           lr = LR_RATE, momentum = MMTUNM, nesterov = True)
 
     # 学習
@@ -75,7 +77,7 @@ def train_and_save_model():
             optimizer.zero_grad()
 
             # forward + backward + optimize
-            outputs = net(inputs)
+            outputs = model(inputs)
             loss = criterion(outputs, labels)
             loss.backward()
             optimizer.step()
@@ -88,14 +90,14 @@ def train_and_save_model():
     print('Finished Training')
 
     # モデルを保存
-    torch.save(net.state_dict(), './mnist_net.pt')
+    torch.save(model.state_dict(), './mnist_net.pth')
+
 
 
 def test_model():
     # モデルをロード
-    net = Net()
-    net.load_state_dict(torch.load('./mnist_net.pt'))
-    net.to(device)
+    model.load_state_dict(torch.load('./mnist_net.pth'))
+    model.to(device)
 
     # test
     correct = 0
@@ -103,15 +105,16 @@ def test_model():
     with torch.no_grad():
         for (images, labels) in testloader:
             images, labels = images.to(device), labels.to(device)  # データをGPUに移動
-            outputs = net(images)
+            outputs = model(images)
             _, predicted = torch.max(outputs.data, 1)
             total += labels.size(0)
             correct += (predicted == labels).sum().item()
     print('Accuracy: {:.2f} %'.format(100 * float(correct / total)))
 
 
+
 if __name__ == '__main__':
     start_time = time.time()
-    #train_and_save_model()
-    test_model()
+    train_and_save_model()
+    #test_model()
     print('elapsed time: {:.3f} [sec]'.format(time.time() - start_time))
