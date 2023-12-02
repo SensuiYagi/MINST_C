@@ -1,0 +1,1110 @@
+Name: JBL 104 - BT
+Description: Microsoft Bluetooth A2dp �\�[�X
+Status: OK
+DeviceID: BTHENUM\{0000110B-0000-1000-8000-00805F9B34FB}_LOCALMFG&0002\7&89ADEC3&0&98523D4B6C50_C00000000
+PNPDeviceID: BTHENUM\{0000110B-0000-1000-8000-00805F9B34FB}_LOCALMFG&0002\7&89ADEC3&0&98523D4B6C50_C00000000
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#00000076BC200000
+PNPDeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#00000076BC200000
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\0
+PNPDeviceID: ACPI\PNP0C02\0
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\1
+PNPDeviceID: ACPI\PNP0C02\1
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\2
+PNPDeviceID: ACPI\PNP0C02\2
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\5
+PNPDeviceID: ACPI\PNP0C02\5
+
+Name: USB Composite Device
+Description: USB Composite Device
+Status: OK
+DeviceID: USB\VID_046D&PID_C52B\5&872AFA4&0&10
+PNPDeviceID: USB\VID_046D&PID_C52B\5&872AFA4&0&10
+
+Name: USB Serial Converter A
+Description: USB Serial Converter A
+Status: OK
+DeviceID: USB\VID_0403&PID_6010&MI_00\6&2C87DB1E&1&0000
+PNPDeviceID: USB\VID_0403&PID_6010&MI_00\6&2C87DB1E&1&0000
+
+Name: MouseComputer EN-Z690
+Description: �R���s���[�^�[ �f�o�C�X
+Status: OK
+DeviceID: SWD\COMPUTER\MFG_MOUSECOMPUTER&FAM_G-TUNE_EN-Z&PROD_EN-Z690&SKU_EN-Z690W11
+PNPDeviceID: SWD\COMPUTER\MFG_MOUSECOMPUTER&FAM_G-TUNE_EN-Z&PROD_EN-Z690&SKU_EN-Z690W11
+
+Name: USB ���[�g �n�u (USB 3.0)
+Description: USB ���[�g �n�u (USB 3.0)
+Status: OK
+DeviceID: USB\ROOT_HUB30\4&C686613&0&0
+PNPDeviceID: USB\ROOT_HUB30\4&C686613&0&0
+
+Name: Microsoft Bluetooth Enumerator
+Description: Microsoft Bluetooth Enumerator
+Status: OK
+DeviceID: BTH\MS_BTHBRB\6&16485C37&0&1
+PNPDeviceID: BTH\MS_BTHBRB\6&16485C37&0&1
+
+Name: ACPI �t�@��
+Description: ACPI �t�@��
+Status: OK
+DeviceID: ACPI\PNP0C0B\0
+PNPDeviceID: ACPI\PNP0C0B\0
+
+Name: ACPI �t�@��
+Description: ACPI �t�@��
+Status: OK
+DeviceID: ACPI\PNP0C0B\1
+PNPDeviceID: ACPI\PNP0C0B\1
+
+Name: ACPI �t�@��
+Description: ACPI �t�@��
+Status: OK
+DeviceID: ACPI\PNP0C0B\2
+PNPDeviceID: ACPI\PNP0C0B\2
+
+Name: ACPI �t�@��
+Description: ACPI �t�@��
+Status: OK
+DeviceID: ACPI\PNP0C0B\3
+PNPDeviceID: ACPI\PNP0C0B\3
+
+Name: ACPI �t�@��
+Description: ACPI �t�@��
+Status: OK
+DeviceID: ACPI\PNP0C0B\4
+PNPDeviceID: ACPI\PNP0C0B\4
+
+Name: Intel Tile Device
+Description: Intel Tile Device
+Status: OK
+DeviceID: {2F2B7B01-597A-434C-8DD6-D27CD46EF73C}\INTELTILEDEVICE\6&16485C37&0
+PNPDeviceID: {2F2B7B01-597A-434C-8DD6-D27CD46EF73C}\INTELTILEDEVICE\6&16485C37&0
+
+Name: ACPI �v���Z�b�T �A�O���Q�[�^�[ 
+Description: ACPI �v���Z�b�T �A�O���Q�[�^�[ 
+Status: OK
+DeviceID: ACPI\ACPI000C\2&DABA3FF&0
+PNPDeviceID: ACPI\ACPI000C\2&DABA3FF&0
+
+Name: ���[�g����L���[
+Description: ���[�J������L���[
+Status: OK
+DeviceID: SWD\PRINTENUM\PRINTQUEUES
+PNPDeviceID: SWD\PRINTENUM\PRINTQUEUES
+
+Name: Microsoft Print to PDF
+Description: ���[�J������L���[
+Status: OK
+DeviceID: SWD\PRINTENUM\{BCABCD2B-A804-4DE3-8B69-2A40AFA7E0F7}
+PNPDeviceID: SWD\PRINTENUM\{BCABCD2B-A804-4DE3-8B69-2A40AFA7E0F7}
+
+Name: USB ���̓f�o�C�X
+Description: USB ���̓f�o�C�X
+Status: OK
+DeviceID: USB\VID_1462&PID_7D36\A02021081302
+PNPDeviceID: USB\VID_1462&PID_7D36\A02021081302
+
+Name: Realtek Audio Universal Service
+Description: Realtek Audio Universal Service
+Status: OK
+DeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&5&28EB8CFD&0
+PNPDeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKSRV&5&28EB8CFD&0
+
+Name: �f�o�C�X���ʃT�[�r�X
+Description: �f�o�C�X���ʃT�[�r�X
+Status: OK
+DeviceID: BTHENUM\{00001200-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+PNPDeviceID: BTHENUM\{00001200-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+
+Name: �{�����[�� �}�l�[�W���[
+Description: �{�����[�� �}�l�[�W���[
+Status: OK
+DeviceID: ROOT\VOLMGR\0000
+PNPDeviceID: ROOT\VOLMGR\0000
+
+Name: HID �����f�o�C�X
+Description: HID �����f�o�C�X
+Status: OK
+DeviceID: HID\VID_1462&PID_7D36\6&38B162B9&0&0000
+PNPDeviceID: HID\VID_1462&PID_7D36\6&38B162B9&0&0000
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\10
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\10
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\11
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\11
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\12
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\12
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\13
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\13
+
+Name: WAN Miniport (PPPOE)
+Description: WAN �~�j�|�[�g (PPPOE)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_PPPOEMINIPORT
+PNPDeviceID: SWD\MSRRAS\MS_PPPOEMINIPORT
+
+Name: Bluetooth HID �f�o�C�X
+Description: Bluetooth HID �f�o�C�X
+Status: OK
+DeviceID: BTHENUM\{00001124-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+PNPDeviceID: BTHENUM\{00001124-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+
+Name: �W�� NVM Express �R���g���[���[
+Description: �W�� NVM Express �R���g���[���[
+Status: OK
+DeviceID: PCI\VEN_1344&DEV_5404&SUBSYS_11001344&REV_03\4&97A1985&0&0030
+PNPDeviceID: PCI\VEN_1344&DEV_5404&SUBSYS_11001344&REV_03\4&97A1985&0&0030
+
+Name: Bluetooth Device (RFCOMM Protocol TDI)
+Description: Bluetooth Device (RFCOMM Protocol TDI)
+Status: OK
+DeviceID: BTH\MS_RFCOMM\6&16485C37&0&0
+PNPDeviceID: BTH\MS_RFCOMM\6&16485C37&0&0
+
+Name: Microsoft Hyper-V Virtual Machine Bus Provider
+Description: Microsoft Hyper-V Virtual Machine Bus Provider
+Status: OK
+DeviceID: ROOT\VMBUS\0000
+PNPDeviceID: ROOT\VMBUS\0000
+
+Name: Bluetooth Device (Personal Area Network)
+Description: Bluetooth �f�o�C�X (�p�[�\�i�� �G���A �l�b�g���[�N)
+Status: OK
+DeviceID: BTH\MS_BTHPAN\6&16485C37&0&2
+PNPDeviceID: BTH\MS_BTHPAN\6&16485C37&0&2
+
+Name: NVIDIA GeForce RTX 3060
+Description: NVIDIA GeForce RTX 3060
+Status: OK
+DeviceID: PCI\VEN_10DE&DEV_2487&SUBSYS_B63019DA&REV_A1\4&2BA2BF07&0&0008
+PNPDeviceID: PCI\VEN_10DE&DEV_2487&SUBSYS_B63019DA&REV_A1\4&2BA2BF07&0&0008
+
+Name: Microsoft ��{�f�B�X�v���C �h���C�o�[
+Description: Microsoft ��{�f�B�X�v���C �h���C�o�[
+Status: OK
+DeviceID: ROOT\BASICDISPLAY\0000
+PNPDeviceID: ROOT\BASICDISPLAY\0000
+
+Name: ACPI �X���[�v �{�^��
+Description: ACPI �X���[�v �{�^��
+Status: OK
+DeviceID: ACPI\PNP0C0E\2&DABA3FF&0
+PNPDeviceID: ACPI\PNP0C0E\2&DABA3FF&0
+
+Name: Microsoft �n�C�p�[�o�C�U�[ �T�[�r�X
+Description: Microsoft �n�C�p�[�o�C�U�[ �T�[�r�X
+Status: OK
+DeviceID: ROOT\HVSERVICE\0000
+PNPDeviceID: ROOT\HVSERVICE\0000
+
+Name: HID �����f�o�C�X
+Description: HID �����f�o�C�X
+Status: OK
+DeviceID: HID\VID_248A&PID_8367&MI_00&COL04\7&85097E7&0&0003
+PNPDeviceID: HID\VID_248A&PID_8367&MI_00&COL04\7&85097E7&0&0003
+
+Name: Intel(R) Shared SRAM - 7AA7
+Description: Intel(R) Shared SRAM - 7AA7
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AA7&SUBSYS_00000000&REV_11\3&11583659&0&A2
+PNPDeviceID: PCI\VEN_8086&DEV_7AA7&SUBSYS_00000000&REV_11\3&11583659&0&A2
+
+Name: Hyper-V Virtual Switch Extension Adapter
+Description: Hyper-V ���z�X�C�b�`�g���A�_�v�^�[
+Status: OK
+DeviceID: ROOT\VMS_VSMP\0000
+PNPDeviceID: ROOT\VMS_VSMP\0000
+
+Name: Hyper-V Virtual Switch Extension Adapter #2
+Description: Hyper-V ���z�X�C�b�`�g���A�_�v�^�[
+Status: OK
+DeviceID: ROOT\VMS_VSMP\0001
+PNPDeviceID: ROOT\VMS_VSMP\0001
+
+Name: ACPI ���x�Ǘ��]�[��
+Description: ACPI ���x�Ǘ��]�[��
+Status: OK
+DeviceID: ACPI\THERMALZONE\TZ00
+PNPDeviceID: ACPI\THERMALZONE\TZ00
+
+Name: Microsoft Windows Management Interface for ACPI
+Description: Microsoft Windows Management Interface for ACPI
+Status: OK
+DeviceID: ACPI\PNP0C14\DSARDEV
+PNPDeviceID: ACPI\PNP0C14\DSARDEV
+
+Name: USB ���̓f�o�C�X
+Description: USB ���̓f�o�C�X
+Status: OK
+DeviceID: USB\VID_248A&PID_8367&MI_01\6&2DC4A858&0&0001
+PNPDeviceID: USB\VID_248A&PID_8367&MI_01\6&2DC4A858&0&0001
+
+Name: Wi-Fi
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\RADIO\{DD5F8804-FB2D-4834-AE99-4F29B3E47A1B}
+PNPDeviceID: SWD\RADIO\{DD5F8804-FB2D-4834-AE99-4F29B3E47A1B}
+
+Name: HID �����V�X�e�� �R���g���[���[
+Description: HID �����V�X�e�� �R���g���[���[
+Status: OK
+DeviceID: HID\VID_248A&PID_8367&MI_00&COL03\7&85097E7&0&0002
+PNPDeviceID: HID\VID_248A&PID_8367&MI_00&COL03\7&85097E7&0&0002
+
+Name: Microsoft RRAS Root Enumerator
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+PNPDeviceID: SWD\MSRRAS\{5E259276-BC7E-40E3-B93B-8F89B5F3ABC0}
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A88-3312-11ED-96F3-806E6F6E6963}#0000000000004400
+PNPDeviceID: STORAGE\VOLUME\{15C50A88-3312-11ED-96F3-806E6F6E6963}#0000000000004400
+
+Name: Bluetooth
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\RADIO\BLUETOOTH_A0E70B5F71D8
+PNPDeviceID: SWD\RADIO\BLUETOOTH_A0E70B5F71D8
+
+Name: Intel(R) Management Engine WMI Provider
+Description: Intel(R) Management Engine WMI Provider
+Status: OK
+DeviceID: SWD\DRIVERENUM\OEM_WMI_COMPONENT&4&131A74C0&0
+PNPDeviceID: SWD\DRIVERENUM\OEM_WMI_COMPONENT&4&131A74C0&0
+
+Name: HID �����R���V���[�}�[����f�o�C�X
+Description: HID �����R���V���[�}�[����f�o�C�X
+Status: OK
+DeviceID: HID\VID_248A&PID_8367&MI_00&COL02\7&85097E7&0&0001
+PNPDeviceID: HID\VID_248A&PID_8367&MI_00&COL02\7&85097E7&0&0001
+
+Name: WAN Miniport (PPTP)
+Description: WAN �~�j�|�[�g (PPTP)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_PPTPMINIPORT
+PNPDeviceID: SWD\MSRRAS\MS_PPTPMINIPORT
+
+Name: Intel(R) Dynamic Application Loader Host Interface
+Description: Intel(R) Dynamic Application Loader Host Interface
+Status: OK
+DeviceID: SWD\DRIVERENUM\OEM_DAL_COMPONENT&4&131A74C0&0
+PNPDeviceID: SWD\DRIVERENUM\OEM_DAL_COMPONENT&4&131A74C0&0
+
+Name: Intel(R) PCI Express Root Port #1 - 7AB8
+Description: Intel(R) PCI Express Root Port #1 - 7AB8
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AB8&SUBSYS_00000000&REV_11\3&11583659&0&E0
+PNPDeviceID: PCI\VEN_8086&DEV_7AB8&SUBSYS_00000000&REV_11\3&11583659&0&E0
+
+Name: USB Serial Converter B
+Description: USB Serial Converter B
+Status: OK
+DeviceID: USB\VID_0403&PID_6010&MI_01\6&2C87DB1E&1&0001
+PNPDeviceID: USB\VID_0403&PID_6010&MI_01\6&2C87DB1E&1&0001
+
+Name: HID �����}�E�X
+Description: HID �����}�E�X
+Status: OK
+DeviceID: HID\VID_248A&PID_8367&MI_00&COL01\7&85097E7&0&0000
+PNPDeviceID: HID\VID_248A&PID_8367&MI_00&COL01\7&85097E7&0&0000
+
+Name: Microsoft Hyper-V ���z���C���t���X�g���N�`�� �h���C�o�[
+Description: Microsoft Hyper-V ���z���C���t���X�g���N�`�� �h���C�o�[
+Status: OK
+DeviceID: ROOT\VID\0000
+PNPDeviceID: ROOT\VID\0000
+
+Name: Realtek Gaming 2.5GbE Family Controller
+Description: Realtek Gaming 2.5GbE Family Controller
+Status: OK
+DeviceID: PCI\VEN_10EC&DEV_8125&SUBSYS_7D361462&REV_05\4&17112BEF&0&00E2
+PNPDeviceID: PCI\VEN_10EC&DEV_8125&SUBSYS_7D361462&REV_05\4&17112BEF&0&00E2
+
+Name: �����x�C�x���g �^�C�}�[
+Description: �����x�C�x���g �^�C�}�[
+Status: OK
+DeviceID: ACPI\PNP0103\0
+PNPDeviceID: ACPI\PNP0103\0
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\ISCLK
+PNPDeviceID: ACPI\PNP0C02\ISCLK
+
+Name: WAN Miniport (IKEv2)
+Description: WAN �~�j�|�[�g (IKEv2)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+PNPDeviceID: SWD\MSRRAS\MS_AGILEVPNMINIPORT
+
+Name: �����o�X�񋓎q
+Description: �����o�X�񋓎q
+Status: OK
+DeviceID: ROOT\COMPOSITEBUS\0000
+PNPDeviceID: ROOT\COMPOSITEBUS\0000
+
+Name: Microsoft ���z�h���C�u�񋓎q
+Description: Microsoft ���z�h���C�u�񋓎q
+Status: OK
+DeviceID: ROOT\VDRVROOT\0000
+PNPDeviceID: ROOT\VDRVROOT\0000
+
+Name: High Definition Audio �R���g���[���[
+Description: High Definition Audio �R���g���[���[
+Status: OK
+DeviceID: PCI\VEN_10DE&DEV_228B&SUBSYS_B63019DA&REV_A1\4&2BA2BF07&0&0108
+PNPDeviceID: PCI\VEN_10DE&DEV_228B&SUBSYS_B63019DA&REV_A1\4&2BA2BF07&0&0108
+
+Name: Microsoft �L����R���g���[���[
+Description: Microsoft �L����R���g���[���[
+Status: OK
+DeviceID: ROOT\SPACEPORT\0000
+PNPDeviceID: ROOT\SPACEPORT\0000
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\0
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\0
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\1
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\1
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\2
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\2
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\3
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\3
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\4
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\4
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\5
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\5
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\6
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\6
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\7
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\7
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\8
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\8
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\9
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\9
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\A
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\A
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\B
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\B
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\C
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\C
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\D
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\D
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\E
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\E
+
+Name: 12th Gen Intel(R) Core(TM) i7-12700K
+Description: Intel Processor
+Status: OK
+DeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\F
+PNPDeviceID: ACPI\GENUINEINTEL_-_INTEL64_FAMILY_6_MODEL_151_-_12TH_GEN_INTEL(R)_CORE(TM)_I7-12700K\F
+
+Name: Intel(R) Platform Monitoring Technology �h���C�o�[
+Description: Intel(R) Platform Monitoring Technology �h���C�o�[
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+PNPDeviceID: PCI\VEN_8086&DEV_467D&SUBSYS_00000000&REV_01\3&11583659&0&50
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A88-3312-11ED-96F3-806E6F6E6963}#0000000001000000
+PNPDeviceID: STORAGE\VOLUME\{15C50A88-3312-11ED-96F3-806E6F6E6963}#0000000001000000
+
+Name: Microsoft Kernel Debug Network Adapter
+Description: Microsoft �J�[�l�� �f�o�b�O �l�b�g���[�N �A�_�v�^�[
+Status: OK
+DeviceID: ROOT\KDNIC\0000
+PNPDeviceID: ROOT\KDNIC\0000
+
+Name: �ėp�{�����[�� �V���h�E �R�s�[
+Description: �ėp�{�����[�� �V���h�E �R�s�[
+Status: OK
+DeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+PNPDeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT1
+
+Name: �ėp�{�����[�� �V���h�E �R�s�[
+Description: �ėp�{�����[�� �V���h�E �R�s�[
+Status: OK
+DeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+PNPDeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT2
+
+Name: �ėp�{�����[�� �V���h�E �R�s�[
+Description: �ėp�{�����[�� �V���h�E �R�s�[
+Status: OK
+DeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3
+PNPDeviceID: STORAGE\VOLUMESNAPSHOT\HARDDISKVOLUMESNAPSHOT3
+
+Name: ST2000DM005-2CW102
+Description: �f�B�X�N �h���C�u
+Status: OK
+DeviceID: SCSI\DISK&VEN_&PROD_ST2000DM005-2CW1\4&3B1956A9&0&040000
+PNPDeviceID: SCSI\DISK&VEN_&PROD_ST2000DM005-2CW1\4&3B1956A9&0&040000
+
+Name: JBL 104 - BT Avrcp �g�����X�|�[�g
+Description: Microsoft Bluetooth AVRCP �g�����X�|�[�g �h���C�o�[
+Status: OK
+DeviceID: BTHENUM\{0000110E-0000-1000-8000-00805F9B34FB}_LOCALMFG&0002\7&89ADEC3&0&98523D4B6C50_C00000000
+PNPDeviceID: BTHENUM\{0000110E-0000-1000-8000-00805F9B34FB}_LOCALMFG&0002\7&89ADEC3&0&98523D4B6C50_C00000000
+
+Name: Realtek Audio Effects Component
+Description: Realtek Audio Effects Component
+Status: OK
+DeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&5&28EB8CFD&0
+PNPDeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKAPO&5&28EB8CFD&0
+
+Name: Logitech USB Input Device
+Description: Logitech USB Input Device
+Status: OK
+DeviceID: USB\VID_046D&PID_C52B&MI_00\6&2E1C66D2&0&0000
+PNPDeviceID: USB\VID_046D&PID_C52B&MI_00\6&2E1C66D2&0&0000
+
+Name: Intel(R) PEG60 - 464D
+Description: Intel(R) PEG60 - 464D
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+PNPDeviceID: PCI\VEN_8086&DEV_464D&SUBSYS_00000000&REV_02\3&11583659&0&30
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\INTC1099\4&AA7A8EB&0
+PNPDeviceID: ACPI\INTC1099\4&AA7A8EB&0
+
+Name: Intel(R) SPI (flash) Controller - 7AA4
+Description: Intel(R) SPI (flash) Controller - 7AA4
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AA4&SUBSYS_7D361462&REV_11\3&11583659&0&FD
+PNPDeviceID: PCI\VEN_8086&DEV_7AA4&SUBSYS_7D361462&REV_11\3&11583659&0&FD
+
+Name: 27M2U (NVIDIA High Definition Audio)
+Description: �I�[�f�B�I �G���h�|�C���g
+Status: OK
+DeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{AC955815-DE5A-4834-974A-890E86D7069F}
+PNPDeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{AC955815-DE5A-4834-974A-890E86D7069F}
+
+Name: SANWA Mouse BT15
+Description: Bluetooth �f�o�C�X
+Status: OK
+DeviceID: BTHENUM\DEV_DC2C260AFF56\7&89ADEC3&0&BLUETOOTHDEVICE_DC2C260AFF56
+PNPDeviceID: BTHENUM\DEV_DC2C260AFF56\7&89ADEC3&0&BLUETOOTHDEVICE_DC2C260AFF56
+
+Name: HID �����x���_�[��`�f�o�C�X
+Description: HID �����x���_�[��`�f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_02&COL01\7&1B9A2120&0&0000
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_02&COL01\7&1B9A2120&0&0000
+
+Name: EPSON EP-882A Series
+Description: EPSON EP-882A Series
+Status: OK
+DeviceID: SWD\ESCL\CFE92100-67C4-11D4-A45F-50579C711C33
+PNPDeviceID: SWD\ESCL\CFE92100-67C4-11D4-A45F-50579C711C33
+
+Name: HID �����x���_�[��`�f�o�C�X
+Description: HID �����x���_�[��`�f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_01&COL04\7&83D1CA2&0&0003
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_01&COL04\7&83D1CA2&0&0003
+
+Name: �C���e��(R) ���C�����X Bluetooth(R)
+Description: �C���e��(R) ���C�����X Bluetooth(R)
+Status: OK
+DeviceID: USB\VID_8087&PID_0026\5&872AFA4&0&14
+PNPDeviceID: USB\VID_8087&PID_0026\5&872AFA4&0&14
+
+Name: Microsoft Wi-Fi Direct Virtual Adapter
+Description: Microsoft Wi-Fi Direct Virtual Adapter
+Status: OK
+DeviceID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\4&22226247&0&11
+PNPDeviceID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\4&22226247&0&11
+
+Name: Microsoft Wi-Fi Direct Virtual Adapter #2
+Description: Microsoft Wi-Fi Direct Virtual Adapter
+Status: OK
+DeviceID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\4&22226247&0&12
+PNPDeviceID: {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\4&22226247&0&12
+
+Name: UMBus Root Bus Enumerator
+Description: UMBus Root Bus Enumerator
+Status: OK
+DeviceID: ROOT\UMBUS\0000
+PNPDeviceID: ROOT\UMBUS\0000
+
+Name: �f�o�C�X �t�@�[���E�F�A
+Description: �f�o�C�X �t�@�[���E�F�A
+Status: OK
+DeviceID: UEFI\RES_{2FE2CBFC-B9AA-4A93-AB5B-40173B581C42}\0
+PNPDeviceID: UEFI\RES_{2FE2CBFC-B9AA-4A93-AB5B-40173B581C42}\0
+
+Name: Microsoft XPS Document Writer
+Description: ���[�J������L���[
+Status: OK
+DeviceID: SWD\PRINTENUM\{DFF84BF6-B972-4A9F-BF0C-06CEE5BE902D}
+PNPDeviceID: SWD\PRINTENUM\{DFF84BF6-B972-4A9F-BF0C-06CEE5BE902D}
+
+Name: HID �����V�X�e�� �R���g���[���[
+Description: HID �����V�X�e�� �R���g���[���[
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_01&COL03\7&83D1CA2&0&0002
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_01&COL03\7&83D1CA2&0&0002
+
+Name: Microsoft Radio Device Enumeration Bus
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+PNPDeviceID: SWD\RADIO\{3DB5895D-CC28-44B3-AD3D-6F01A782B8D2}
+
+Name: HID �����R���V���[�}�[����f�o�C�X
+Description: HID �����R���V���[�}�[����f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_01&COL02\7&83D1CA2&0&0001
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_01&COL02\7&83D1CA2&0&0001
+
+Name: USB Composite Device
+Description: USB Composite Device
+Status: OK
+DeviceID: USB\VID_248A&PID_8367\5&872AFA4&0&3
+PNPDeviceID: USB\VID_248A&PID_8367\5&872AFA4&0&3
+
+Name: Microsoft Device Association Root Enumerator
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+PNPDeviceID: SWD\MSDAS\{CE958E9A-424F-4C88-86F4-11314821E75A}
+
+Name: ACPI x64 �x�[�X PC
+Description: ACPI x64 �x�[�X PC
+Status: OK
+DeviceID: ROOT\ACPI_HAL\0000
+PNPDeviceID: ROOT\ACPI_HAL\0000
+
+Name: Microsoft Windows Management Interface for ACPI
+Description: Microsoft Windows Management Interface for ACPI
+Status: OK
+DeviceID: ACPI\PNP0C14\WMIC
+PNPDeviceID: ACPI\PNP0C14\WMIC
+
+Name: WAN Miniport (Network Monitor)
+Description: WAN �~�j�|�[�g (�l�b�g���[�N ���j�^�[)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_NDISWANBH
+PNPDeviceID: SWD\MSRRAS\MS_NDISWANBH
+
+Name: WAN Miniport (IP)
+Description: WAN �~�j�|�[�g (IP)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_NDISWANIP
+PNPDeviceID: SWD\MSRRAS\MS_NDISWANIP
+
+Name: HID �����}�E�X
+Description: HID �����}�E�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_01&COL01\7&83D1CA2&0&0000
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_01&COL01\7&83D1CA2&0&0000
+
+Name: Microsoft Windows Management Interface for ACPI
+Description: Microsoft Windows Management Interface for ACPI
+Status: OK
+DeviceID: ACPI\PNP0C14\TESTDEV
+PNPDeviceID: ACPI\PNP0C14\TESTDEV
+
+Name: PCI Express ���[�g �R���v���b�N�X
+Description: PCI Express ���[�g �R���v���b�N�X
+Status: OK
+DeviceID: ACPI\PNP0A08\0
+PNPDeviceID: ACPI\PNP0A08\0
+
+Name: Intel(R) USB 3.20 eXtensible Host Controller - 1.20 (Microsoft)
+Description: USB xHCI �Ή��z�X�g �R���g���[���[
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AE0&SUBSYS_7D361462&REV_11\3&11583659&0&A0
+PNPDeviceID: PCI\VEN_8086&DEV_7AE0&SUBSYS_7D361462&REV_11\3&11583659&0&A0
+
+Name: Microsoft Hyper-V PCI �T�[�o�[
+Description: Microsoft Hyper-V PCI �T�[�o�[
+Status: OK
+DeviceID: ROOT\VPCIVSP\0000
+PNPDeviceID: ROOT\VPCIVSP\0000
+
+Name: Realtek(R) Audio
+Description: Realtek High Definition Audio
+Status: OK
+DeviceID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_14629D36&REV_1004\4&2B6D6E6E&0&0001
+PNPDeviceID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_14629D36&REV_1004\4&2B6D6E6E&0&0001
+
+Name: Intel(R) Management Engine Interface #1
+Description: Intel(R) Management Engine Interface #1
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AE8&SUBSYS_7D361462&REV_11\3&11583659&0&B0
+PNPDeviceID: PCI\VEN_8086&DEV_7AE8&SUBSYS_7D361462&REV_11\3&11583659&0&B0
+
+Name: �ėp USB �n�u
+Description: �ėp USB �n�u
+Status: OK
+DeviceID: USB\VID_05E3&PID_0608\5&872AFA4&0&13
+PNPDeviceID: USB\VID_05E3&PID_0608\5&872AFA4&0&13
+
+Name: ACPI �d���{�^��
+Description: ACPI �d���{�^��
+Status: OK
+DeviceID: ACPI\PNP0C0C\2&DABA3FF&0
+PNPDeviceID: ACPI\PNP0C0C\2&DABA3FF&0
+
+Name: Microsoft ACPI-Compliant System
+Description: Microsoft ACPI-Compliant System
+Status: OK
+DeviceID: ACPI_HAL\PNP0C08\0
+PNPDeviceID: ACPI_HAL\PNP0C08\0
+
+Name: None
+Description: None
+Status: OK
+DeviceID: HTREE\ROOT\0
+PNPDeviceID: HTREE\ROOT\0
+
+Name: Microsoft ��{�����_�����O �h���C�o�[
+Description: Microsoft ��{�����_�����O �h���C�o�[
+Status: OK
+DeviceID: ROOT\BASICRENDER\0000
+PNPDeviceID: ROOT\BASICRENDER\0000
+
+Name: USB ���̓f�o�C�X
+Description: USB ���̓f�o�C�X
+Status: OK
+DeviceID: USB\VID_046D&PID_C52B&MI_01\6&2E1C66D2&0&0001
+PNPDeviceID: USB\VID_046D&PID_C52B&MI_01\6&2E1C66D2&0&0001
+
+Name: WAN Miniport (SSTP)
+Description: WAN �~�j�|�[�g (SSTP)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_SSTPMINIPORT
+PNPDeviceID: SWD\MSRRAS\MS_SSTPMINIPORT
+
+Name: �V�X�e�� �t�@�[���E�F�A
+Description: �V�X�e�� �t�@�[���E�F�A
+Status: OK
+DeviceID: UEFI\RES_{4B46BD12-CBFA-59D2-B836-BEAEC4D72C40}\0
+PNPDeviceID: UEFI\RES_{4B46BD12-CBFA-59D2-B836-BEAEC4D72C40}\0
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000011500000
+PNPDeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000011500000
+
+Name: Microsoft UEFI �Ή��V�X�e��
+Description: Microsoft UEFI �Ή��V�X�e��
+Status: OK
+DeviceID: ACPI_HAL\UEFI\0
+PNPDeviceID: ACPI_HAL\UEFI\0
+
+Name: Fax
+Description: ���[�J������L���[
+Status: OK
+DeviceID: SWD\PRINTENUM\{3BF9A971-1B2B-49CF-8B0F-8C3C6D472C52}
+PNPDeviceID: SWD\PRINTENUM\{3BF9A971-1B2B-49CF-8B0F-8C3C6D472C52}
+
+Name: HID �����x���_�[��`�f�o�C�X
+Description: HID �����x���_�[��`�f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_02&COL02\7&1B9A2120&0&0001
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_02&COL02\7&1B9A2120&0&0001
+
+Name: Intel(R) Wi-Fi 6 AX201 160MHz
+Description: Intel(R) Wi-Fi 6 AX201 160MHz
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AF0&SUBSYS_00748086&REV_11\3&11583659&0&A3
+PNPDeviceID: PCI\VEN_8086&DEV_7AF0&SUBSYS_00748086&REV_11\3&11583659&0&A3
+
+Name: �g���X�e�b�h �v���b�g�t�H�[�� ���W���[�� 2.0
+Description: �g���X�e�b�h �v���b�g�t�H�[�� ���W���[�� 2.0
+Status: OK
+DeviceID: ACPI\MSFT0101\1
+PNPDeviceID: ACPI\MSFT0101\1
+
+Name: ACPI Fixed Feature �{�^��
+Description: ACPI Fixed Feature �{�^��
+Status: OK
+DeviceID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+PNPDeviceID: ACPI\FIXEDBUTTON\2&DABA3FF&0
+
+Name: �T�[�r�X�����T�[�r�X
+Description: �T�[�r�X�����T�[�r�X
+Status: OK
+DeviceID: BTHENUM\{00001000-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+PNPDeviceID: BTHENUM\{00001000-0000-1000-8000-00805F9B34FB}_VID&00020A5C_PID&0001\7&89ADEC3&0&DC2C260AFF56_C00000000
+
+Name: �v���O�����\���荞�݃R���g���[���[
+Description: �v���O�����\���荞�݃R���g���[���[
+Status: OK
+DeviceID: ACPI\PNP0000\4&AA7A8EB&0
+PNPDeviceID: ACPI\PNP0000\4&AA7A8EB&0
+
+Name: Microsoft Windows Management Interface for ACPI
+Description: Microsoft Windows Management Interface for ACPI
+Status: OK
+DeviceID: ACPI\PNP0C14\MFBI
+PNPDeviceID: ACPI\PNP0C14\MFBI
+
+Name: ACPI �E�F�C�N �A���[��
+Description: ACPI �E�F�C�N �A���[��
+Status: OK
+DeviceID: ACPI\ACPI000E\2&DABA3FF&0
+PNPDeviceID: ACPI\ACPI000E\2&DABA3FF&0
+
+Name: Intel(R) LPC Controller/eSPI Controller (Z690) - 7A84
+Description: Intel(R) LPC Controller/eSPI Controller (Z690) - 7A84
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7A84&SUBSYS_7D361462&REV_11\3&11583659&0&F8
+PNPDeviceID: PCI\VEN_8086&DEV_7A84&SUBSYS_7D361462&REV_11\3&11583659&0&F8
+
+Name: Microsoft Windows Management Interface for ACPI
+Description: Microsoft Windows Management Interface for ACPI
+Status: OK
+DeviceID: ACPI\PNP0C14\MXM2
+PNPDeviceID: ACPI\PNP0C14\MXM2
+
+Name: Intel(R) Power Engine Plug-in
+Description: Intel(R) Power Engine Plug-in
+Status: OK
+DeviceID: ACPI\INT33A1\1
+PNPDeviceID: ACPI\INT33A1\1
+
+Name: Intel(R) GNA - 464F
+Description: Intel(R) GNA - 464F
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_464F&SUBSYS_7D361462&REV_02\3&11583659&0&40
+PNPDeviceID: PCI\VEN_8086&DEV_464F&SUBSYS_7D361462&REV_02\3&11583659&0&40
+
+Name: Microsoft Hyper-V ���z�f�B�X�N �T�[�o�[
+Description: Microsoft Hyper-V ���z�f�B�X�N �T�[�o�[
+Status: OK
+DeviceID: ROOT\STORVSP\0000
+PNPDeviceID: ROOT\STORVSP\0000
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\PNP0C02\IOTRAPS
+PNPDeviceID: ACPI\PNP0C02\IOTRAPS
+
+Name: Intel(R) Host Bridge/DRAM Registers - 4668
+Description: Intel(R) Host Bridge/DRAM Registers - 4668
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_4668&SUBSYS_7D361462&REV_02\3&11583659&0&00
+PNPDeviceID: PCI\VEN_8086&DEV_4668&SUBSYS_7D361462&REV_02\3&11583659&0&00
+
+Name: Microsoft Bluetooth LE Enumerator
+Description: Microsoft Bluetooth LE Enumerator
+Status: OK
+DeviceID: BTH\MS_BTHLE\6&16485C37&0&3
+PNPDeviceID: BTH\MS_BTHLE\6&16485C37&0&3
+
+Name: Micron_2210_MTFDHBA512QFD
+Description: �f�B�X�N �h���C�u
+Status: OK
+DeviceID: SCSI\DISK&VEN_NVME&PROD_MICRON_2210_MTFD\5&3982543&0&000000
+PNPDeviceID: SCSI\DISK&VEN_NVME&PROD_MICRON_2210_MTFD\5&3982543&0&000000
+
+Name: NVVHCI Enumerator
+Description: NVVHCI Enumerator
+Status: OK
+DeviceID: ROOT\UNNAMED_DEVICE\0000
+PNPDeviceID: ROOT\UNNAMED_DEVICE\0000
+
+Name: NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Description: NVIDIA Virtual Audio Device (Wave Extensible) (WDM)
+Status: OK
+DeviceID: ROOT\UNNAMED_DEVICE\0001
+PNPDeviceID: ROOT\UNNAMED_DEVICE\0001
+
+Name: NvModuleTracker Device
+Description: NvModuleTracker Device
+Status: OK
+DeviceID: ROOT\UNNAMED_DEVICE\0002
+PNPDeviceID: ROOT\UNNAMED_DEVICE\0002
+
+Name: Microsoft GS Wavetable Synth
+Description: �ėp�\�t�g�E�F�A �f�o�C�X
+Status: OK
+DeviceID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+PNPDeviceID: SWD\MMDEVAPI\MICROSOFTGSWAVETABLESYNTH
+
+Name: Intel(R) SMBus - 7AA3
+Description: Intel(R) SMBus - 7AA3
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AA3&SUBSYS_7D361462&REV_11\3&11583659&0&FC
+PNPDeviceID: PCI\VEN_8086&DEV_7AA3&SUBSYS_7D361462&REV_11\3&11583659&0&FC
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000010500000
+PNPDeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000010500000
+
+Name: USB Composite Device
+Description: USB Composite Device
+Status: OK
+DeviceID: USB\VID_0403&PID_6010\5&872AFA4&0&7
+PNPDeviceID: USB\VID_0403&PID_6010\5&872AFA4&0&7
+
+Name: �W�� SATA AHCI �R���g���[���[
+Description: �W�� SATA AHCI �R���g���[���[
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AE2&SUBSYS_7D361462&REV_11\3&11583659&0&B8
+PNPDeviceID: PCI\VEN_8086&DEV_7AE2&SUBSYS_7D361462&REV_11\3&11583659&0&B8
+
+Name: �{�����[��
+Description: �{�����[��
+Status: OK
+DeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000000100000
+PNPDeviceID: STORAGE\VOLUME\{15C50A87-3312-11ED-96F3-806E6F6E6963}#0000000000100000
+
+Name: USB ���̓f�o�C�X
+Description: USB ���̓f�o�C�X
+Status: OK
+DeviceID: USB\VID_046D&PID_C52B&MI_02\6&2E1C66D2&0&0002
+PNPDeviceID: USB\VID_046D&PID_C52B&MI_02\6&2E1C66D2&0&0002
+
+Name: NDIS ���z�l�b�g���[�N �A�_�v�^�[�񋓎q
+Description: NDIS ���z�l�b�g���[�N �A�_�v�^�[�񋓎q
+Status: OK
+DeviceID: ROOT\NDISVIRTUALBUS\0000
+PNPDeviceID: ROOT\NDISVIRTUALBUS\0000
+
+Name: Intel(R) PEG10 - 460D
+Description: Intel(R) PEG10 - 460D
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_460D&SUBSYS_7D361462&REV_02\3&11583659&0&08
+PNPDeviceID: PCI\VEN_8086&DEV_460D&SUBSYS_7D361462&REV_02\3&11583659&0&08
+
+Name: HID �����x���_�[��`�f�o�C�X
+Description: HID �����x���_�[��`�f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_02&COL03\7&1B9A2120&0&0002
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_02&COL03\7&1B9A2120&0&0002
+
+Name: Microsoft VHD ���[�v�o�b�N �R���g���[���[
+Description: Microsoft VHD ���[�v�o�b�N �R���g���[���[
+Status: OK
+DeviceID: {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+PNPDeviceID: {8E7BD593-6E6C-4C52-86A6-77175494DD8E}\MSVHDHBA\1&3030E83&0&01
+
+Name: High Definition Audio �R���g���[���[
+Description: High Definition Audio �R���g���[���[
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7AD0&SUBSYS_9D361462&REV_11\3&11583659&0&FB
+PNPDeviceID: PCI\VEN_8086&DEV_7AD0&SUBSYS_9D361462&REV_11\3&11583659&0&FB
+
+Name: Microsoft System Management BIOS Driver
+Description: Microsoft System Management BIOS Driver
+Status: OK
+DeviceID: ROOT\MSSMBIOS\0000
+PNPDeviceID: ROOT\MSSMBIOS\0000
+
+Name: �}�U�[�{�[�h ���\�[�X
+Description: �}�U�[�{�[�h ���\�[�X
+Status: OK
+DeviceID: ACPI\INT340E\2&DABA3FF&0
+PNPDeviceID: ACPI\INT340E\2&DABA3FF&0
+
+Name: HID �L�[�{�[�h �f�o�C�X
+Description: HID �L�[�{�[�h �f�o�C�X
+Status: OK
+DeviceID: HID\VID_248A&PID_8367&MI_01\7&2014242C&0&0000
+PNPDeviceID: HID\VID_248A&PID_8367&MI_01\7&2014242C&0&0000
+
+Name: Realtek Hardware Support Application
+Description: Realtek Hardware Support Application
+Status: OK
+DeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&5&28EB8CFD&0
+PNPDeviceID: SWD\DRIVERENUM\{C3A63EDD-2D27-4B66-B155-5E94B43D926A}#REALTEKHSA&5&28EB8CFD&0
+
+Name: Intel(R) Serial IO GPIO Host Controller - INTC1056
+Description: Intel(R) Serial IO GPIO Host Controller - INTC1056
+Status: OK
+DeviceID: ACPI\INTC1056\2&DABA3FF&0
+PNPDeviceID: ACPI\INTC1056\2&DABA3FF&0
+
+Name: Realtek HD Audio 2nd output (Realtek(R) Audio)
+Description: �I�[�f�B�I �G���h�|�C���g
+Status: OK
+DeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{E08CF6AC-6DC9-488A-86A1-204C28EA8A5D}
+PNPDeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{E08CF6AC-6DC9-488A-86A1-204C28EA8A5D}
+
+Name: NVIDIA High Definition Audio
+Description: NVIDIA High Definition Audio
+Status: OK
+DeviceID: HDAUDIO\FUNC_01&VEN_10DE&DEV_009E&SUBSYS_19DAB630&REV_1001\5&695A8C9&0&0001
+PNPDeviceID: HDAUDIO\FUNC_01&VEN_10DE&DEV_009E&SUBSYS_19DAB630&REV_1001\5&695A8C9&0&0001
+
+Name: �v���O �A���h �v���C �\�t�g�E�F�A �f�o�C�X�񋓎q
+Description: �v���O �A���h �v���C �\�t�g�E�F�A �f�o�C�X�񋓎q
+Status: OK
+DeviceID: ROOT\SYSTEM\0000
+PNPDeviceID: ROOT\SYSTEM\0000
+
+Name: HID �L�[�{�[�h �f�o�C�X
+Description: HID �L�[�{�[�h �f�o�C�X
+Status: OK
+DeviceID: HID\VID_046D&PID_C52B&MI_00\7&2C145A64&0&0000
+PNPDeviceID: HID\VID_046D&PID_C52B&MI_00\7&2C145A64&0&0000
+
+Name: Realtek Digital Output (Realtek(R) Audio)
+Description: �I�[�f�B�I �G���h�|�C���g
+Status: OK
+DeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{AD61F0E0-CEA3-4325-B586-79BC40D31EC9}
+PNPDeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{AD61F0E0-CEA3-4325-B586-79BC40D31EC9}
+
+Name: �V�X�e�� �^�C�}�[
+Description: �V�X�e�� �^�C�}�[
+Status: OK
+DeviceID: ACPI\PNP0100\4&AA7A8EB&0
+PNPDeviceID: ACPI\PNP0100\4&AA7A8EB&0
+
+Name: �X�s�[�J�[ (JBL 104 - BT)
+Description: �I�[�f�B�I �G���h�|�C���g
+Status: OK
+DeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{DC5917F9-B2C3-4EC0-A208-F2DC26CD55B7}
+PNPDeviceID: SWD\MMDEVAPI\{0.0.0.00000000}.{DC5917F9-B2C3-4EC0-A208-F2DC26CD55B7}
+
+Name: �����[�g �f�X�N�g�b�v �f�o�C�X ���_�C���N�^�[ �o�X
+Description: �����[�g �f�X�N�g�b�v �f�o�C�X ���_�C���N�^�[ �o�X
+Status: OK
+DeviceID: ROOT\RDPBUS\0000
+PNPDeviceID: ROOT\RDPBUS\0000
+
+Name: WAN Miniport (IPv6)
+Description: WAN �~�j�|�[�g (IPv6)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_NDISWANIPV6
+PNPDeviceID: SWD\MSRRAS\MS_NDISWANIPV6
+
+Name: Intel(R) PCI Express Root Port #3 - 7ABA
+Description: Intel(R) PCI Express Root Port #3 - 7ABA
+Status: OK
+DeviceID: PCI\VEN_8086&DEV_7ABA&SUBSYS_7D361462&REV_11\3&11583659&0&E2
+PNPDeviceID: PCI\VEN_8086&DEV_7ABA&SUBSYS_7D361462&REV_11\3&11583659&0&E2
+
+Name: JBL 104 - BT
+Description: Bluetooth �f�o�C�X
+Status: OK
+DeviceID: BTHENUM\DEV_98523D4B6C50\7&89ADEC3&0&BLUETOOTHDEVICE_98523D4B6C50
+PNPDeviceID: BTHENUM\DEV_98523D4B6C50\7&89ADEC3&0&BLUETOOTHDEVICE_98523D4B6C50
+
+Name: Generic Monitor (27M2U)
+Description: �ėp PnP ���j�^�[
+Status: OK
+DeviceID: DISPLAY\IOCFFFF\5&3DB1A8D&0&UID4352
+PNPDeviceID: DISPLAY\IOCFFFF\5&3DB1A8D&0&UID4352
+
+Name: USB ���̓f�o�C�X
+Description: USB ���̓f�o�C�X
+Status: OK
+DeviceID: USB\VID_248A&PID_8367&MI_00\6&2DC4A858&0&0000
+PNPDeviceID: USB\VID_248A&PID_8367&MI_00\6&2DC4A858&0&0000
+
+Name: WAN Miniport (L2TP)
+Description: WAN �~�j�|�[�g (L2TP)
+Status: OK
+DeviceID: SWD\MSRRAS\MS_L2TPMINIPORT
+PNPDeviceID: SWD\MSRRAS\MS_L2TPMINIPORT
+

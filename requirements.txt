@@ -1,3 +1,5 @@
 torch
 torchvision
 onnx
+pyserial
+pywin32
